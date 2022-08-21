@@ -269,6 +269,7 @@ body {
 .chat-box {
   margin-top: 60px;
   padding: 17px 10px;
+  background: #EFF2F7;
 }
 .chat.outgoing, .chat.incoming {
   display: flex;
